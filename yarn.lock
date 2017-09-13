@@ -2587,6 +2587,10 @@ jasminewd2@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/jasminewd2/-/jasminewd2-2.1.0.tgz#da595275d1ae631de736ac0a7c7d85c9f73ef652"
 
+jqwidgets-scripts@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/jqwidgets-scripts/-/jqwidgets-scripts-5.2.0.tgz#73752b25225048fad397b09fd327d99ef174ed24"
+
 js-base64@^2.1.5, js-base64@^2.1.8, js-base64@^2.1.9:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.3.2.tgz#a79a923666372b580f8e27f51845c6f7e8fbfbaf"
