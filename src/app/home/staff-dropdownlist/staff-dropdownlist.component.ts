@@ -18,7 +18,7 @@ export class StaffDropdownlistComponent {
 
   renderer = (index: number, label: string, value: any): string => {
     const datarecord = this.data[index];
-    const imgurl = '../images/' + label.toLowerCase() + '.png';
+    const imgurl = '../../assets/images/' + label.toLowerCase() + '.png';
     const img = '<img height="50" width="45" src="' + imgurl + '"/>';
     const table = '<table style="min-width: 150px;"><tr><td style="width: 55px;" rowspan="2">'
       + img + '</td><td>' + datarecord.firstname + ' '
